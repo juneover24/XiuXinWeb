@@ -23,12 +23,12 @@
   url = "/docs/help/"
 
 [[main]]
-  name = "用户文档"
+  name = "文章精选"
   url = "/docs/prologue/introduction/"
   weight = 10
 
 [[main]]
-  name = "Wiki"
+  name = "关于我们"
   url = "https://github.com/v2rayA/v2rayA/wiki"
   weight = 20
 
