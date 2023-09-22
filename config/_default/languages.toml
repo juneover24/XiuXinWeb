@@ -2,4 +2,6 @@
 languageName = '简'
 contentDir = 'content/zh-cn'
 
-
+[en]
+languageName = 'EN'
+contentDir = 'content/en'
