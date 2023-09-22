@@ -1,5 +1,5 @@
 ---
-title : "JuneOver24的羊毛库"
+title : "XiuXin"
 description: "一个易用而强大的，薅羊毛环境"
 lead: "一个易用而强大的，薅羊毛环境"
 # date: 2021-08-19T08:47:36+00:00
