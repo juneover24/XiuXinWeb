@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   docs:
-    parent: "installation"
+    parent: "article"
 weight: 15
 toc: true
 ---
