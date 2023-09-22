@@ -9,6 +9,6 @@ images: []
 menu:
   docs:
     parent: "prologue"
-    identifier: "installation"
+    identifier: "about"
 weight: 15
 ---
