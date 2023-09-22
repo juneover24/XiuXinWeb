@@ -24,11 +24,11 @@
 
 [[main]]
   name = "文章精选"
-  url = "/docs/prologue/introduction/"
+  url = "/docs/prologue/article/"
   weight = 10
 
 [[main]]
   name = "关于我们"
-  url = "https://github.com/v2rayA/v2rayA/wiki"
+  url = "/docs/prologue/about/"
   weight = 20
 
