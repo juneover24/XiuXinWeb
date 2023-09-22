@@ -1,7 +1,7 @@
 ---
-title: "快速上手"
-description: "快速上手 v2rayA"
-lead: "本节将介绍 v2rayA 最基本的使用方法。"
+title: "文章精选"
+description: "XiuXin文章精选"
+lead: "本节将展示XiuXin文章精选。"
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false
