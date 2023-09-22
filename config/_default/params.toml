@@ -11,7 +11,7 @@ images = ["v2raya.png"]
 ogLocale = "zh_cn"
 ogImageHeight = "320"
 ogImageWidth = "640"
-domainTLD = "ikxiuxin.com"
+domainTLD = "yangmao.ikxiuxin.com"
 titleHome = "v2rayA Doc"
 
 ## Twitter Cards
@@ -51,8 +51,8 @@ portraitPhotoWidths = [800, 700, 600, 500]
 lqipWidth = "20x"
 
 # Footer
-footer = "CC-BY-SA | Copyright (c) 2021 - {year} XiuXin Organization"
-copyright = "Copyright (c) 2021 - {year} XiuXin Organization"
+footer = "CC-BY-SA | Copyright (c) 2021 - {year} 24 Organization"
+copyright = "Copyright (c) 2021 - {year} 24 Organization"
 
 # Alert
 alert = false
