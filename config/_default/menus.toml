@@ -5,16 +5,16 @@
   url = "/docs/prologue/"
 
 [[docs]]
-  name = "手册"
+  name = "文章精选"
   weight = 20
-  identifier = "manual"
-  url = "/docs/manual/"
+  identifier = "article"
+  url = "/docs/article/"
 
 [[docs]]
-  name = "高级应用"
+  name = "关于我们"
   weight = 30
-  identifier = "advanced-application"
-  url = "/docs/advanced-application/"
+  identifier = "about"
+  url = "/docs/about/"
 
 [[docs]]
   name = "帮助"
@@ -24,11 +24,11 @@
 
 [[main]]
   name = "文章精选"
-  url = "/docs/prologue/article/"
+  url = "/docs/article/"
   weight = 10
 
 [[main]]
   name = "关于我们"
-  url = "/docs/prologue/about/"
+  url = "/docs/about/"
   weight = 20
 
