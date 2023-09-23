@@ -23,7 +23,7 @@ toc: true
 如果你已经安装了 v2ray-core 和 v2rayA，可以跳过此节。
 {{% /notice %}}
 
-这一节介绍了如何在各个 Linux 发行版以及 Docker 中运行 v2rayA。 [下载与安装 →]({{% relref "installation" %}})
+这一节介绍了如何在各个 Linux 发行版以及 Docker 中运行 v2rayA。 [下载与安装 →]({{% relref "article" %}})
 
 ### 文章精选
 
@@ -36,4 +36,3 @@ toc: true
 ## 关于我们
 
 这一章对 v2rayA 的各个功能进行介绍。侧重点为每个具体功能的用法、表现行为，以及相似功能之间的区别。 [关于我们 →]({{% relref "about" %}})
-
