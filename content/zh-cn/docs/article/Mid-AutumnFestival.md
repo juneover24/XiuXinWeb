@@ -1,7 +1,7 @@
 ---
 title : "中秋 ｜ 喜跃心头"
 description: "作者 ｜ 冥星"
-lead: "中秋 ｜ 喜跃心头"
+lead: "作者 ｜ 冥星"
 date: 2021-08-19T08:49:31+00:00
 lastmod: 2021-08-19T08:49:31+00:00
 draft: false 
