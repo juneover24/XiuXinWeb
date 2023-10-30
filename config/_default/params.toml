@@ -7,12 +7,12 @@ titleAddition = "文档"
 description = "v2rayA 是一个支持全局透明代理的 V2Ray Linux 客户端，同时兼容SS、SSR、Trojan(trojan-go)、PingTunnel协议。"
 
 ## Open Graph
-images = ["v2raya.png"]
+images = ["LogoXiuXin.png"]
 ogLocale = "zh_cn"
 ogImageHeight = "320"
 ogImageWidth = "640"
 domainTLD = "ikxiuxin.com"
-titleHome = "v2rayA Doc"
+titleHome = "XiuXin Doc"
 
 ## Twitter Cards
 twitterSite = ""
@@ -29,7 +29,7 @@ schemaLocale = "zh-CN"
 schemaLogo = "android-chrome-512x512.png"
 schemaLogoWidth = 512
 schemaLogoHeight = 512
-schemaImage = "v2raya.png"
+schemaImage = "LogoXiuXin.png"
 schemaImageWidth = 289
 schemaImageHeight = 117
 schemaTwitter = ""
