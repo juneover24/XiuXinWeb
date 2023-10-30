@@ -52,7 +52,7 @@ toc: true
 
 ![查看盘符](images/install5.png)
 
-如这台电脑有C，D，E盘符，则可以安装这三个任意盘
+如这台电脑有C，D，F盘符，则可以安装这三个任意盘
 
 ![安装psychopy](images/install6.png)
 
