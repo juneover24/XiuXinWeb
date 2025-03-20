@@ -1,18 +1,18 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "XiuXin"
+title = "GuShao's Skin"
 titleSeparator = "-"
 titleAddition = "文档"
-description = "《修欣(心)》是一款线上心理咨询平台，旨在为用户提供方便、隐私的心理支持和咨询服务。我们的目标是帮助用户改善心理健康、缓解压力、解决问题，并提供专业的心理咨询和指导。"
+description = "GuShao's Skin"
 
 ## Open Graph
-images = ["LogoXiuXin.png"]
+images = ["Logo.png"]
 ogLocale = "zh_cn"
 ogImageHeight = "320"
 ogImageWidth = "640"
-domainTLD = "ikxiuxin.com"
-titleHome = "XiuXin Doc"
+domainTLD = "skin.gushao.club"
+titleHome = "GuShao's Skin Doc"
 
 ## Twitter Cards
 twitterSite = ""
@@ -24,17 +24,17 @@ schemaName = "v2rayA"
 schemaAuthor = "v2rayA"
 schemaAuthorTwitter = ""
 schemaAuthorLinkedIn = ""
-schemaAuthorGitHub = "https://github.com/juneover24/XiuXinWeb"
+schemaAuthorGitHub = "https://github.com/SolitaryJune/SkinIntroduce"
 schemaLocale = "zh-CN"
 schemaLogo = "android-chrome-512x512.png"
 schemaLogoWidth = 512
 schemaLogoHeight = 512
-schemaImage = "LogoXiuXin.png"
+schemaImage = "Logo.png"
 schemaImageWidth = 289
 schemaImageHeight = 117
 schemaTwitter = ""
 schemaLinkedIn = ""
-schemaGitHub = "https://ikxiuxin.com"
+schemaGitHub = "https://skin.gushao.club"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
@@ -51,22 +51,22 @@ portraitPhotoWidths = [800, 700, 600, 500]
 lqipWidth = "20x"
 
 # Footer
-footer = "CC-BY-SA | Copyright (c) 2021 - {year} XiuXin Organization"
-copyright = "Copyright (c) 2021 - {year} XiuXin Organization"
+footer = "CL-EULA | Copyright (c) 2021 - {year} GuShao's Skin Organization"
+copyright = "Copyright (c) 2021 - {year} GuShao's Skin Organization"
 
 # Alert
 alert = false
 alertText = "Like v2rayA? <a class=\"alert-link\" href=\"https://github.com/v2rayA/v2rayA/stargazers\">Star on GitHub</a>. Thanks!</a>"
 
 # Edit Page
-docsRepo = "https://github.com/juneover24/XiuXinWeb"
+docsRepo = "https://github.com/SolitaryJune/SkinIntroduce"
 editPage = true
 
 # Contributors
-githubContributors = true
-githubUser = "XiuXinWeb"
-githubRepo = "XiuXinWeb"
-githubDocRepo = "juneover24.github.io"
+githubContributors = false
+githubUser = "GuShao's Skin"
+githubRepo = "GuShao's Skin"
+githubDocRepo = "solitaryjune.github.io"
 githubDocTree = "main"
 githubContributorsAPI = ""
 
