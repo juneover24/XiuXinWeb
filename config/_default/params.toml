@@ -1,18 +1,18 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "GuShao's Skin"
+title = "XiuXin"
 titleSeparator = "-"
 titleAddition = "文档"
-description = "GuShao's Skin"
+description = "《修欣(心)》是一款线上心理咨询平台，旨在为用户提供方便、隐私的心理支持和咨询服务。我们的目标是帮助用户改善心理健康、缓解压力、解决问题，并提供专业的心理咨询和指导。"
 
 ## Open Graph
-images = ["Logo.png"]
+images = ["LogoXiuXin.png"]
 ogLocale = "zh_cn"
 ogImageHeight = "320"
 ogImageWidth = "640"
-domainTLD = "skin.gushao.club"
-titleHome = "GuShao's Skin Doc"
+domainTLD = "ikxiuxin.com"
+titleHome = "XiuXin Doc"
 
 ## Twitter Cards
 twitterSite = ""
@@ -24,17 +24,17 @@ schemaName = "v2rayA"
 schemaAuthor = "v2rayA"
 schemaAuthorTwitter = ""
 schemaAuthorLinkedIn = ""
-schemaAuthorGitHub = "https://github.com/SolitaryJune/SkinIntroduce"
+schemaAuthorGitHub = "https://github.com/juneover24/XiuXinWeb"
 schemaLocale = "zh-CN"
 schemaLogo = "android-chrome-512x512.png"
 schemaLogoWidth = 512
 schemaLogoHeight = 512
-schemaImage = "Logo.png"
+schemaImage = "LogoXiuXin.png"
 schemaImageWidth = 289
 schemaImageHeight = 117
 schemaTwitter = ""
 schemaLinkedIn = ""
-schemaGitHub = "https://skin.gushao.club"
+schemaGitHub = "https://ikxiuxin.com"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
@@ -51,22 +51,22 @@ portraitPhotoWidths = [800, 700, 600, 500]
 lqipWidth = "20x"
 
 # Footer
-footer = "CL-EULA | Copyright (c) 2021 - {year} GuShao's Skin Organization"
-copyright = "Copyright (c) 2021 - {year} GuShao's Skin Organization"
+footer = "CC-BY-SA | Copyright (c) 2021 - {year} XiuXin Organization"
+copyright = "Copyright (c) 2021 - {year} XiuXin Organization"
 
 # Alert
 alert = false
 alertText = "Like v2rayA? <a class=\"alert-link\" href=\"https://github.com/v2rayA/v2rayA/stargazers\">Star on GitHub</a>. Thanks!</a>"
 
 # Edit Page
-docsRepo = "https://github.com/SolitaryJune/SkinIntroduce"
+docsRepo = "https://github.com/juneover24/XiuXinWeb"
 editPage = true
 
 # Contributors
-githubContributors = false
-githubUser = "GuShao's Skin"
-githubRepo = "GuShao's Skin"
-githubDocRepo = "solitaryjune.github.io"
+githubContributors = true
+githubUser = "XiuXinWeb"
+githubRepo = "XiuXinWeb"
+githubDocRepo = "juneover24.github.io"
 githubDocTree = "main"
 githubContributorsAPI = ""
 
