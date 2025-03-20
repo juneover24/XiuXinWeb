@@ -95,9 +95,9 @@ toc: true
 /Applications/IBM SPSS Statistics 27/Resources/Activation
 ```
 
-![lservrc](images/image copy.png)
+![lservrc](images/imagecopy.png)
 
-![lservrc2](images/image copy2.png)
+![lservrc2](images/imagecopy2.png)
 
 ### 4. 复制 `IF026 Update` 文件
 
@@ -107,7 +107,7 @@ toc: true
 /Applications/IBM SPSS Statistics 27/SPSS Statistics.app/Contents
 ```
 
-![IF026 Update](images/image copy3.png)
+![IF026 Update](images/imagecopy3.png)
 
 ### 5. 加入 Sonoma+ 补丁
 
@@ -117,15 +117,15 @@ toc: true
 /Applications/IBM SPSS Statistics 27/SPSS Statistics.app/Contents/lib/
 ```
 
-![libplatdep](images/image copy4.png)
+![libplatdep](images/imagecopy4.png)
 
-![libplatdep5](images/image copy5.png)
+![libplatdep5](images/imagecopy5.png)
 
 ### 6. 运行SPSS 27
 
 在 **启动台** 启动 `SPSS Statistics 27`，如果一切正常，则表示安装成功！
 
-![运行SPSS](images/image copy6.png)
+![运行SPSS](images/imagecopy6.png)
 
 ---
 
@@ -135,10 +135,10 @@ toc: true
 
 点击 **前往** → **前往文件夹**，然后复制以下路径并回车即可打开：
 
-![前往文件夹](images/image copy7.png)
+![前往文件夹](images/imagecopy7.png)
 
 ```code
 /Applications/IBM SPSS Statistics 27/SPSS Statistics.app/Contents
 ```
 
-![前往文件夹8](images/image copy8.png)
+![前往文件夹8](images/imagecopy8.png)
