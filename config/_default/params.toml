@@ -63,7 +63,7 @@ docsRepo = "https://github.com/juneover24/XiuXinWeb"
 editPage = true
 
 # Contributors
-githubContributors = true
+githubContributors = false
 githubUser = "XiuXinWeb"
 githubRepo = "XiuXinWeb"
 githubDocRepo = "juneover24.github.io"
