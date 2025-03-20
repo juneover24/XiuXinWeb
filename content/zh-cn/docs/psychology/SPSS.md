@@ -36,15 +36,13 @@ toc: true
 
 安装向导启动后，点击 **下一步** 继续安装。
 
-![安装向导](attachment://86527bb21ac966c6dfe90b46f7e5693.png)
-
 ### 4. 选择安装目录
 
-可以选择默认的安装目录 `C:\Program Files\IBM\SPSS\Statistics\24\`，或点击 **更改** 选择其他路径。
+可以选择默认（ **建议** ）的安装目录 `C:\Program Files\IBM\SPSS\Statistics\24\`，或点击 **更改** 选择其他路径。
 
 点击 **下一步** 继续。
 
-![选择安装目录](content/zh-cn/docs/psychology/spss/images/win2.png)
+![选择安装目录](images/win2.png)
 
 ### 5. 完成安装（但不要打开）
 
@@ -52,7 +50,7 @@ toc: true
 
 **注意：此时不要打开SPSS！**
 
-![安装完成](attachment://08a2998b4e15b27f6da3f8682561525.png)
+![安装完成](images/win3.png)
 
 ### 6. 复制 `lservrc` 文件
 
@@ -63,13 +61,15 @@ toc: true
 > - 可能需要 **管理员权限** 才能复制文件。
 > - 如果系统提示 **替换文件**，请选择 **替换目标中的文件**。
 
-![复制 lservrc](attachment://91c3cd4e4a1c199e0d29b9e5f2e4a37.png)
+![复制 lservrc](images/win4.png)
 
 ### 7. 运行SPSS 24并验证安装
 
 复制 `lservrc` 后，运行 **IBM SPSS Statistics 24**。
 
-如果出现 **IBM SPSS Statistics 已到期** 的提示，则说明安装完成。
+如果出现 **IBM SPSS Statistics 已到期** 的提示，则说明安装完成,即可正常使用。
+
+![安装完成](images/win5.png)
 
 ---
 
@@ -79,9 +79,13 @@ toc: true
 
 下载 `SPSS27.M.Sonoma.+.-.JuneOver24.dmg` 后，双击打开，并运行 `SPSS Statistics 27.0` 安装程序。
 
+![后，双击打开，并运行](images/image2.png)
+
 ### 2. 取消许可证管理向导
 
 安装完成后，会自动运行许可证管理向导，点击 **取消**。
+
+![取消许可证管理向导](images/image.png)
 
 ### 3. 替换 `lservrc` 文件
 
@@ -91,6 +95,10 @@ toc: true
 /Applications/IBM SPSS Statistics 27/Resources/Activation
 ```
 
+![lservrc](images/image copy.png)
+
+![lservrc2](images/image copy2.png)
+
 ### 4. 复制 `IF026 Update` 文件
 
 将 `IF026 Update` 文件拷贝到：
@@ -98,6 +106,8 @@ toc: true
 ```code
 /Applications/IBM SPSS Statistics 27/SPSS Statistics.app/Contents
 ```
+
+![IF026 Update](images/image copy3.png)
 
 ### 5. 加入 Sonoma+ 补丁
 
@@ -107,9 +117,15 @@ toc: true
 /Applications/IBM SPSS Statistics 27/SPSS Statistics.app/Contents/lib/
 ```
 
+![libplatdep](images/image copy4.png)
+
+![libplatdep5](images/image copy5.png)
+
 ### 6. 运行SPSS 27
 
 在 **启动台** 启动 `SPSS Statistics 27`，如果一切正常，则表示安装成功！
+
+![运行SPSS](images/image copy6.png)
 
 ---
 
@@ -119,6 +135,10 @@ toc: true
 
 点击 **前往** → **前往文件夹**，然后复制以下路径并回车即可打开：
 
+![前往文件夹](images/image copy7.png)
+
 ```code
 /Applications/IBM SPSS Statistics 27/SPSS Statistics.app/Contents
 ```
+
+![前往文件夹8](images/image copy8.png)
