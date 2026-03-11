@@ -19,8 +19,8 @@ toc: true
 
 你需要先下载适合你系统的 **SPSS Statistics** 安装包，并确保计算机满足安装要求。
 
-- **Windows 版本（SPSS 24）**：[下载](https://git.ikxiuxin.com/https://github.com/SolitaryJune/apps/releases/download/v1.0.0/SPSS_Statistics_24_win64.zip)
-- **Mac 版本（SPSS 27 for Sonoma+）**：[下载](https://git.ikxiuxin.com/https://github.com/SolitaryJune/apps/releases/download/v1.0.0/SPSS27.M.Sonoma.+.-.JuneOver24.dmg)
+- **Windows 版本（SPSS 24）**：[下载](https://git.psychology.gushao.club/https://github.com/SolitaryJune/apps/releases/download/v1.0.0/SPSS_Statistics_24_win64.zip)
+- **Mac 版本（SPSS 27 for Sonoma+）**：[下载](https://git.psychology.gushao.club/https://github.com/SolitaryJune/apps/releases/download/v1.0.0/SPSS27.M.Sonoma.+.-.JuneOver24.dmg)
 
 ## Windows 版（SPSS 24）安装教程
 
